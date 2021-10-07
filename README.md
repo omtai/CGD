@@ -1,0 +1,2 @@
+# CGD
+stuff for class
